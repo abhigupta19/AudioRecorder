@@ -1,0 +1,15 @@
+
+œ
+java:S1186x"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¯†çŸûÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+s
+java:S1450%"XRemove the "audioList" field and declare it as a local variable in the relevant methods.(üÍöúÿÿÿÿÿ
+u
+java:S1450""ZRemove the "playerSheet" field and declare it as a local variable in the relevant methods.(«Ý„ˆÿÿÿÿÿ
+?
+java:S1148¹"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+m
+java:S1450&"WRemove the "allFiles" field and declare it as a local variable in the relevant methods.(°©ÈÎ
+z
+java:S1450("_Remove the "audioListAdapter" field and declare it as a local variable in the relevant methods.(ü¶Ýäüÿÿÿÿ

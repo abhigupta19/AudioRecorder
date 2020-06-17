@@ -1,0 +1,7 @@
+
+I
+java:S1068/".Remove this unused "list_image" private field.(”ˆ»Âùÿÿÿÿ
+o	java:S1160"URename this field "list_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¨¦Äÿÿÿÿÿ
+k	java:S114D"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°¿ä¼úÿÿÿÿ
+n	java:S1161"TRename this field "list_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œî‡˜ÿÿÿÿÿ
+o	java:S116/"URename this field "list_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ˆ»Âùÿÿÿÿ
